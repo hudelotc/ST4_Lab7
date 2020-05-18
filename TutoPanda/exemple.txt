@@ -1,0 +1,3 @@
+date	devise	prix
+2014-06-22	euros	220.0
+2014-06-23	euros	221.0
